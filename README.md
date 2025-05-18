@@ -1,2 +1,2 @@
 # Adam
-Implementation of Adam optimizer using PyTorch
+Implementation the Adam optimizer using PyTorch
